@@ -1,4 +1,4 @@
 altair
 pandas
-streamlit==1.4.0
+streamlit
 pip
